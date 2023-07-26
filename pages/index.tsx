@@ -138,9 +138,6 @@ export default function Home() {
                 <li className="text-gray-800 py-1">
                   Azure DevOps (CI/CD, pipelines)
                 </li>
-                <li className="text-gray-800 py-1">
-                  Agile/Scrum methodologies
-                </li>
               </ol>
             </div>
             <div className="hover:shadow-2xl  shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
