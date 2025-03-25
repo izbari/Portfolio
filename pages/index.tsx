@@ -52,7 +52,11 @@ export default function Home() {
               Frontend Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              {Informations.description}
+              With almost 5 years of experience in React Native and React, I have worked on a variety of impactful projects, particularly in healthcare, consumer applications, and high-traffic mobile solutions. I specialize in developing scalable, high-performance applications with complex integrations, such as Apple Health, Google Health, and MasterCard payment systems. My expertise extends to creating custom map routes, optimizing location-based services, and implementing advanced iOS features like Live Activity.
+
+              I have extensive experience in React Native, building diverse features like AI chatbots, video calling, live GPS tracking, and e-commerce solutions. I’ve also maintained and upgraded legacy Ionic applications, ensuring they continue to perform at a high level. Throughout my career, I have worked with numerous APIs, including Google Fit, Google Maps, and Google Places, and have built systems from scratch to release, successfully managing every phase of the project lifecycle.
+
+              Beyond technical development, I emphasize collaboration and efficient team management, ensuring projects are completed on time, meet high standards, and align with business goals. My passion for coding and continuous learning drives me to stay at the forefront of technology, delivering robust solutions that address both user and business needs.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href={Informations.github}>
@@ -79,15 +83,7 @@ export default function Home() {
               Skills and Technologies
             </h1>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              With almost 3 years of experience, I am capable of understanding
-              the requirements of an application and building it from scratch to
-              the release stage. As I have worked on numerous use cases, I am
-              familiar with most of the React Native packages. These packages
-              include notifications, video calling and messaging applications,
-              live GPS tracking, social media, IoT applications, e-commerce
-              applications, and many others. In addition to this, I have
-              utilized various project management tools for other aspects of the
-              project.
+              With almost 5 years of experience, I am capable of understanding the requirements of an application and building it from scratch to the release stage. As I have worked on numerous use cases, I am familiar with most of the React Native packages. These packages include notifications, video calling and messaging applications, live GPS tracking, social media, IoT applications, e-commerce applications, and many others. In addition to this, I have utilized various project management tools for other aspects of the project.
             </p>
           </div>
           <div className="lg:flex gap-10">
