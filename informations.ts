@@ -5,7 +5,7 @@ export const informations = {
   email: "zaferrosh@gmail.com",
   portfolio: "https://izbaris.dev",
   description:
-    "With almost 5 years of experience in React Native and React, I have worked on a variety of impactful projects, particularly in healthcare, consumer applications, and high-traffic mobile solutions. I specialize in developing scalable, high-performance applications with complex integrations, such as Apple Health, Google Health, and MasterCard payment systems. My expertise extends to creating custom map routes, optimizing location-based services, and implementing advanced iOS features like Live Activity.",
+    "With nearly 6 years of experience in React Native and React, I have worked on a variety of impactful projects, particularly in healthcare, consumer applications, and high-traffic mobile solutions. I specialize in developing scalable, high-performance applications with complex integrations, such as Apple Health, Google Health, and MasterCard payment systems. My expertise extends to creating custom map routes, optimizing location-based services, and implementing advanced iOS features like Live Activity.",
   github: "https://www.github.com/izbari",
   linkedin: "https://www.linkedin.com/in/izbaris",
   medium: "https://medium.com/@izbaris",

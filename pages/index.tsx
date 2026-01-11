@@ -401,7 +401,7 @@ export default function Home() {
         <section id="skills" className="content-section">
           <h2 className="section-title">Professional Expertise</h2>
           <p className="section-description">
-            With almost 5 years of experience in React Native and React, I specialize 
+            With nearly 6 years of experience in React Native and React, I specialize 
             in building scalable, high-performance mobile applications. From healthcare 
             platforms to consumer apps, I deliver solutions that meet both technical 
             excellence and business objectives.
